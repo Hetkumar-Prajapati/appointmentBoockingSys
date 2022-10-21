@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Signika&family=Ubuntu&display=swap');
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0; 
+}
+main{
+  height: 90vh;
+  padding: 40px;
+  
+}
+.navbar{
+  padding: 10px 18px;
+}
+footer{
+  background-color:black;
+  color: white;
+  text-align: center;
+  align-items: center;
+  margin: 0;
+  padding: 15px 15px 5px 15px;
+}
+p{
+  font-size: medium;
+}
+.btn-primary{
+  background-color: #8BC34A;
+}
+.btn-primary:hover{
+  background-color: #009688;
+}
+fieldset{
+  margin: 10px 0px;
+}
+table{
+  margin: 5px 0px;
+}
